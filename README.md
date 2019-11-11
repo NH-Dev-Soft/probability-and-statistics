@@ -1,4 +1,4 @@
-## probability-and-statics
+## probability-and-statistics
 
 1. 조건부확률과 Bayes 정리
 2. 독립사건과 확률
