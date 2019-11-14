@@ -24,4 +24,4 @@
 |20| 통계의 기초 - 표본평균|
 |21| 통계의 기초 - 표본분산|
 
-> [lecture link](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)|
+> [lecture link](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
